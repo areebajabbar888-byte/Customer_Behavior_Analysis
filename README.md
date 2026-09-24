@@ -29,5 +29,8 @@ The project includes:
 - Age-group analysis
 - Purchase behavior analysis
 
+## 📸 Dashboard Preview
+
+
 ## 👩‍💻 Author
 Areeba Jabbar
