@@ -30,7 +30,7 @@ The project includes:
 - Purchase behavior analysis
 
 ## 📸 Dashboard Preview
-
+![Customer Behavior Dashboard](customer_behavior_dashboard.png)
 
 ## 👩‍💻 Author
 Areeba Jabbar
