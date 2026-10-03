@@ -30,7 +30,7 @@ The project includes:
 - Purchase behavior analysis
 
 ## 📸 Dashboard Preview
-![Dashboard Preview]("C:\Users\SSC\OneDrive\Documents\Projects\Customer Behavior analysis\customer_behavior_dashboard.png")
+![image_alt](https://github.com/areebajabbar888-byte/Customer_Behavior_Analysis/blob/2385910a24f2301a128dc1fb99fe147ba514e797/05_customer_behavior_dashboard.png)
 
 ## 👩‍💻 Author
 Areeba Jabbar
